@@ -1,0 +1,7 @@
+$ git clone  https://github.com/prenom-nom/nom-du-repository.git
+$ git add "C:\Users\nom-du-repository\mon-fichier"
+$ git push 
+
+git push <remote> --force
+git push <remote> --all
+git push <remote> --tags
